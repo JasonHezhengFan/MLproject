@@ -5,4 +5,6 @@ first part is manually implement adaboost algorithm with model visualization and
 
 second part is using adaboost to solve real life probelm regarding classify workpieces quality.
 
-the rest is modification about adaboost
+the rest are modification about adaboost.
+
+noted:workpieces data is very complex, requiring further cleaning technique.
